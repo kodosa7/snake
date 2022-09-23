@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+*venv*
+.vscode
+db.sqlite3
+.DS_Store
+TODO.md
+*old*
+snake_hiscore
+*test*
